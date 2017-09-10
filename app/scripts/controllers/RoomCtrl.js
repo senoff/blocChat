@@ -1,6 +1,7 @@
 (function() {
-    function HomeCtrl() {
-    }
+    function RoomCtrl() {
+    $scope.Room.all
+  }
 
     angular
         .module('blocChat')
